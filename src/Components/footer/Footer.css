@@ -1,0 +1,38 @@
+.main_foot{
+    display: flex;
+    /* text-align: center; */
+    align-items: center;
+    width: 100%;
+    gap: 100px;
+    margin-left: 200px;
+    
+}
+ /* .footer3 h3{
+    font-size: medium;
+    background-color: white;
+}
+.footer2 h3{
+    font-size:medium;
+    background-color: white;
+    
+} */
+.footer2 h5{
+    font-size:x-small;
+   color: rgb(125, 125, 206);
+}
+
+.footer3 h4{
+    font-size:x-small;
+    background-color: white;
+    color: rgb(15, 15, 16);
+}
+.footer4 img{
+    width: 100px;
+    
+}
+.footer1 p{
+font-size: 15px;
+}
+.footer4{
+   margin-top: 46px;
+}

@@ -1,0 +1,130 @@
+/* .sidebar {
+   width: 250px;
+   min-height: 100vh;
+   background-color: #f1f1f1;
+   padding: 20px 10px;
+
+}
+.sidebar-menu {
+   width: 100%;
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+}
+.dashboard {
+   margin-top: 20px;
+   display: flex;
+   align-items: center;
+   gap: 10px;
+}
+.sidebar h5 {
+   color: #333;
+}
+
+
+.sidebar-menu img {
+   height: 20px;
+   width: 20px;
+}
+
+.dropdown {
+   width: 100%;
+   display: flex;
+   gap: 10px;
+   justify-content: space-between;
+}
+.dropdown select {
+  
+   width: 100%;
+} */
+.sidebar {
+   width: 180px;
+   height: 100vh;
+   background-color:white;
+   
+   padding: 20px;
+   box-sizing: border-box;
+ }
+ 
+ .sidebar h3 {
+   font-size: 20px;
+   margin-bottom: 10px;
+ }
+ 
+ .sidebar h5 {
+   font-size: 16px;
+   margin-bottom: 10px;
+   color: #888888;
+ }
+ 
+ .sidebar-menu {
+   margin-top: 20px;
+ }
+ 
+ .dashboard {
+   display: flex;
+   align-items: center;
+   margin-bottom: 20px;
+ }
+ 
+ .dashboard img {
+   width: 24px;
+   height: 24px;
+   margin-right: 10px;
+ }
+ 
+ .dropdown {
+   display: flex;
+   align-items: center;
+   margin-bottom: 30px; /* Increased margin-bottom value */
+ }
+ 
+ .dropdown img {
+   width: 24px;
+   height: 24px;
+   margin-right: 10px;
+ }
+ 
+ .dropdown select {
+   width: 100%;
+   padding: 8px;
+   border: none;
+   border-radius: 4px;
+   font-size: 14px;
+   appearance: none;
+   background-color: #ffffff;
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   transition: border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+ }
+ 
+ .dropdown select:focus {
+   outline: none;
+   border-color: #666666;
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+ }
+ 
+ .dropdown select option {
+   font-size: 14px;
+ }
+ 
+ .sidebar-menu a {
+   display: block;
+   margin-top: 5px;
+   color: #333333;
+   text-decoration: none;
+   font-size: 14px;
+   padding: 8px;
+   border-radius: 4px;
+   transition: background-color 0.3s ease-in-out;
+ }
+ 
+ .sidebar-menu a:hover {
+   background-color: #e6e6e6;
+ }
+ 
+ .sidebar-menu a.active {
+   background-color: #c1c1c1;
+   color: #ffffff;
+ }
+ 
+

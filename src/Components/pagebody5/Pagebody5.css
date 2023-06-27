@@ -1,0 +1,107 @@
+.pagebodyhead5{
+    height: 60px;
+    width: 400%;
+    background-color: rgb(201, 198, 198);
+    }
+.compo1_pagebody5 h4{
+    font-size: medium;
+    background-color: white;
+    color: black;
+    margin-top: -80px;
+    padding: 10px;
+}
+.compo1_pagebody5 h5{
+    margin-left: 10px;
+    margin-top: -5px;
+}
+.photo1{
+    width: 200px;
+    height: 200px;
+    margin-left:250px;
+    margin-top: 20px;
+}
+.photo2{
+    display: flex;
+}
+.photo2 img{
+    width: 30px;
+    height: 30px;
+}
+.photo2 p{
+    font-size: small;
+}
+.photo3{
+    display: flex;
+    padding: 10px;
+}
+.photo3 img{
+    width: 10px;
+    height:10px; 
+}
+.photo3 p{
+    font-size: small;
+}
+.photo4{
+    display: flex;
+    padding: 10px;
+}
+.photo4 img{
+    width: 20px;
+    height:20px; 
+}
+.photo4 p{
+    font-size: small;
+}
+.photo5{
+    display: flex;
+    padding: 10px;
+}
+.photo5 img{
+    width: 20px;
+    height:20px; 
+}
+.photo5 p{
+    font-size: small;
+}
+.compo1_pagebody5 button{
+    background-color:rgb(62, 62, 74); 
+    border-radius: 10px; 
+    width: 100px;
+    height: 30px; 
+    margin-left: 10px;
+    margin-top: 50px;
+}
+.compo2_pagebody5 h4{
+   font-size: large;
+   background-color: azure;
+   padding: 15px;
+   color: rgb(62, 60, 60);
+}
+.compo2_pagebody5 table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+  }
+  .compo2_pagebody5 th {
+    background-color: #f2f2f2;
+    text-align: left;
+    padding: 8px;
+    border: 5px solid #ddd;
+    width: 100px;
+    color: hsl(150, 5%, 9%);
+  }
+  .compo2_pagebody5 td {
+    padding: 8px;
+   border: 3px solid #ddd;
+   color: rgb(42, 46, 46);
+   font-size: medium;
+   }
+   .compo2_pagebody5 td:hover {
+    background-color: rgb(64, 66, 84);
+  }
+  .compo2_pagebody5 td button{
+    width: 150px;
+    height: 20px;
+    background-color: rgb(29, 202, 6);
+    border-radius: 10px;
+  }

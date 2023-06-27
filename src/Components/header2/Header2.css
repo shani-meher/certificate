@@ -1,0 +1,57 @@
+.main_header2 {
+   height: 60px;
+    width: 100%;
+  display: flex;
+  align-items: center;
+  margin-left: 850px;
+    
+  }
+  .component_header2{
+    height: 25%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+   
+  }
+  
+  .component_header2 input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+   
+    
+  }
+  
+  .component_header2 button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: auto;
+  
+  }
+  
+  .component_header2 button:hover {
+    background-color: #0056b3;
+  }
+  .component_header2 img{
+    width: 25px;
+    height: 32px;
+    margin-left: 10px;
+  }
+  .header2_tite{
+    height: 300px;
+    width: 300px;
+  }
+  .mainhead1 h4{
+    background-color: #ccc;
+    color: rgb(123, 118, 111);
+
+  }
+  
+
+  
+
+  

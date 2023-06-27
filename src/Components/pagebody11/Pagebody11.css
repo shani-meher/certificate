@@ -1,0 +1,35 @@
+.pagebodyhead11{
+    height: 60px;
+    width: 400%;
+    background-color: rgb(201, 198, 198);
+    }
+.compo1_pagebody11 label{
+        font-size: 20px;
+        color: rgba(0, 0, 0, 0.521);
+       margin-left: 10px;
+      }
+.compo1_pagebody11 input{
+        width: 50%;
+        border: solid rgba(120, 128, 128, 0.568);
+        font-size: 20px;
+        padding: 10px;
+        margin-left: 10px;
+        position: relative;
+      }
+.compo1_pagebody11 form {
+    display: flex;
+    flex-direction: column;
+    
+}
+.compo1_pagebody11 button{
+    background-color:rgb(114, 114, 141);   
+    width: 25%;  
+     color:white;   
+     padding: 15px;   
+     margin: 10px 0px;   
+     border: none;   
+     cursor: pointer;  
+     border-radius: 10px; 
+     margin-left: 600px;
+    
+}

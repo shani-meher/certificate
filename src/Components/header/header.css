@@ -1,0 +1,28 @@
+.header_main{
+    width: 100%;
+    background-color: rgb(11, 60, 208);
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 2px solid rgb(136, 128, 128);
+    border-top: 2px solid rgb(132, 175, 240);
+}
+.header_items{
+display: flex;
+list-style: none;
+gap:20px;
+color: white;
+font-size: small;
+}
+.header_main button{
+    height: 30px;
+    width: 80px;
+    background-color: rgb(11, 60, 208);
+    border-radius: 5px;
+    font-size: small;
+    color: hsl(180, 20%, 97%);
+    cursor: pointer; 
+    border-color: aqua;
+
+}

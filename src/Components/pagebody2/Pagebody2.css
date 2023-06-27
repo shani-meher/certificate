@@ -1,0 +1,46 @@
+.pagebodyhead1{
+    height: 60px;
+    width: 400%;
+    background-color: rgb(201, 198, 198);
+    
+}
+ h4{
+  font-size: large;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+  }
+  
+ 
+  th {
+    background-color: #f2f2f2;
+    text-align: left;
+    padding: 8px;
+    border: 0px solid #ddd;
+    width: 1000px;
+    color: hsl(150, 5%, 9%);
+  }
+  
+  
+  td {
+    padding: 8px;
+   border: 0px solid #ddd;
+   color: rgb(111, 116, 116);
+   font-size: small;
+   }
+   td:hover {
+    background-color: yellow;
+  }
+  
+  
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  .compo1_pagebody2 img{
+    width: 20px;
+    height:16px;
+  }
+  
+  
